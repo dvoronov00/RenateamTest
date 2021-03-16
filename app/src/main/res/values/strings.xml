@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">RentaTeamTest</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_users">Пользователи</string>
+    <string name="title_user">Пользователь</string>
+    <string name="title_about">О программе</string>
+    <string name="text_about">Тестовое задание для Rentateam</string>
+    <string name="name">Имя</string>
+    <string name="error">Произошла ошибка</string>
+    <string name="email">Email:</string>
 </resources>
